@@ -1,0 +1,6 @@
+[package]
+name = "random-names"
+version = "0.1.0"
+authors = ["chridou <chridou@users.noreply.github.com>"]
+
+[dependencies]
