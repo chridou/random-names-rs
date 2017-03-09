@@ -5,6 +5,8 @@ authors = ["chridou <chridou@users.noreply.github.com>"]
 description = "Simple random names that can be used to name components or nodes."
 license = "MIT/Apache-2.0"
 homepage = "https://github.com/chridou/random-names-rs"
+repository = "https://github.com/chridou/random-names-rs"
+
 
 [dependencies]
 rand = "0.3.*"
