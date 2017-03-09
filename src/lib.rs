@@ -1,6 +1,6 @@
-//! This small librry just generates random names.
+//! This small library just generates random names.
 //!
-//! It's purpose is to create identifiers that do not have to be
+//! Its purpose is to create identifiers that do not have to be
 //! strictly unique like names for server nodes, components etc.
 //!
 //! This library is not meant to create fake data for testing.
