@@ -26,7 +26,7 @@ impl RandomName {
     /// This function just calls `create_name` with a freshly generated random number generator.
     ///
     /// Internally this function tries to create an `OsRng` which can fail. Then the random name is not
-    /// random anymore but "Edwin Error".
+    /// random anymore but "EDWIN ERROR".
     pub fn new() -> RandomName {
         let mut rng = match OsRng::new() {
             Ok(rng) => rng,
